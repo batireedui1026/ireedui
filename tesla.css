@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    scroll-behavior:smooth;
+}
+
+
+.section-1{
+    background-image: url("https://digitalassets-secure.tesla.com/image/upload/f_auto,q_auto/xufyfcvqhmq36szytod7.jpg");
+    height:100vh;
+    width: 100%;
+    background-size: cover;
+}
+.text-container{
+    padding-top:200px;
+    text-align:center;
+}
+.text-container h1{
+gap:8px;
+}
+.text-container h4{
+    font:Avenir;
+}
+.button-container{
+    margin-top:400px;
+    text-align:center;
+    
+
+}
+.button-container button{
+    padding:16px 24px 16px 24px;
+    border-radius:2px;
+    background-color:white;
+    border:none;
+    outline:none;
+
+}
+.list{
+    list-style:none;
+    display:flex;
+    gap:10px;
+}
+.header{
+    display:flex;
+    justify-content:space-around;
+    padding-top:10px;
+}
+
+#demo{
+    background-color:gray;
+}
+
+.section-2{
+width: 100%;
+height: 100vh;
+background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop");
+background-size: cover;
+}
+.text-contain{
+    margin-top:200px;
+    text-align:center;
+}
+.text-contain h1{
+gap:8px;
+}
+.text-contain h4{
+    font:Avenir;
+}
+.button-contain{
+    margin-top:400px;
+    text-align:center;
+
+}
+
+button{
+    gap:16px;
+    border-radius:2px;
+    padding:16px 24px 16px 24px;
+}
+
+
+
+
+.section-3{
+    width: 100%;
+    height: 100vh;
+    background-image:url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-X-Desktop-LHD");
+    background-size: cover;
+}
+.section-4{
+    width: 100%;
+    height: 100vh;
+    background-image:url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-S-Desktop-LHD-6.22.jpg");
+    background-size: cover;
+}
+   
